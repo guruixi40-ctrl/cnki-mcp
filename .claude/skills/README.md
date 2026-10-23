@@ -11,3 +11,4 @@
 
 1. 将 skill 目录（含 `SKILL.md`，不含 `.git`）复制到 `.claude/skills/<skill-name>/`
 2. 在上表中登记来源与版本
+3. 如有 Python 依赖，保留其 `requirements.txt`；云端会话启动时 `.claude/hooks/session-start.sh` 会自动安装
