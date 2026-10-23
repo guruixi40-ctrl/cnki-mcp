@@ -6,6 +6,7 @@
 |---|---|---|---|
 | [paper-write-4ss](./paper-write-4ss/SKILL.md) | [JingYangYuan/paper-write-4ss](https://github.com/JingYangYuan/paper-write-4ss) | `8f33bd4` | 中文社会科学论文章节写作、润色、语言扫描 |
 | [humanities-thesis](./humanities-thesis/SKILL.md) | [ganzhi-black/humanities-thesis-skill](https://github.com/ganzhi-black/humanities-thesis-skill) | `9f9c971` | 人文社科论文选题到投稿全流程指导、文献检索、文本评估 |
+| [social-science-paper-writing](./social-science-paper-writing/SKILL.md) | [fakerqwq/social-science-paper-writing-skill](https://github.com/fakerqwq/social-science-paper-writing-skill)（`social-science-paper-writing-skill/` 子目录） | `6f4e06d` | 社科论文选题诊断、研究设计评审、引用风险检查、修改与投稿前审阅 |
 
 ## 添加新 skill
 
