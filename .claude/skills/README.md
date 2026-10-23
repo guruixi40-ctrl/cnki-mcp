@@ -5,6 +5,7 @@
 | Skill | 来源 | 版本 | 用途 |
 |---|---|---|---|
 | [paper-write-4ss](./paper-write-4ss/SKILL.md) | [JingYangYuan/paper-write-4ss](https://github.com/JingYangYuan/paper-write-4ss) | `8f33bd4` | 中文社会科学论文章节写作、润色、语言扫描 |
+| [humanities-thesis](./humanities-thesis/SKILL.md) | [ganzhi-black/humanities-thesis-skill](https://github.com/ganzhi-black/humanities-thesis-skill) | `9f9c971` | 人文社科论文选题到投稿全流程指导、文献检索、文本评估 |
 
 ## 添加新 skill
 
